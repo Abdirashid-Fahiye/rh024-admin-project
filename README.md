@@ -25,3 +25,14 @@ Maintaining server security requires automated patching, and provisioning resour
 * **`dnf install`**: Provisions new software packages (e.g., Nginx) directly from trusted enterprise repositories.
 * **`systemctl start`**: Initializes the background daemon for the newly installed service.
 * **`systemctl enable`**: Configures the service to start automatically whenever the Linux server reboots.
+
+
+👤 Technical Author
+Developer: Abdirashid Fahiye
+
+Programme: WeThinkCode_ Software Engineering (Bonus track: Red Hat Linux Administration)
+
+📹 Demo Video Link :
+
+🔒 WeThinkCode_ Verification
+Verification Code: WTC-HUBS4HVL
