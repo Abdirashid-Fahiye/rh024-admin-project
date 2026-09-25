@@ -32,7 +32,7 @@ Developer: Abdirashid Fahiye
 
 Programme: WeThinkCode_ Software Engineering (Bonus track: Red Hat Linux Administration)
 
-📹 Demo Video Link :
+📹 Demo Video Link : https://youtu.be/EgctEuHpg3c
 
 🔒 WeThinkCode_ Verification
 Verification Code: WTC-HUBS4HVL
